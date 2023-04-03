@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\testt\bin\Debug\net6.0\testt.exe
+C:\Users\Administrator\Desktop\testt\bin\Debug\net6.0\testt.deps.json
+C:\Users\Administrator\Desktop\testt\bin\Debug\net6.0\testt.runtimeconfig.json
+C:\Users\Administrator\Desktop\testt\bin\Debug\net6.0\testt.dll
+C:\Users\Administrator\Desktop\testt\bin\Debug\net6.0\testt.pdb
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\testt.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\testt.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\testt.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\testt.dll
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\refint\testt.dll
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\testt.pdb
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\testt.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\testt\obj\Debug\net6.0\ref\testt.dll
